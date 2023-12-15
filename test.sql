@@ -1,1 +1,1 @@
-select max(salary) from  employee
+select min(salary) from  employee
