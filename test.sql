@@ -1,1 +1,1 @@
-select count(*) from  employee
+select sum(salary) from  employee
