@@ -1,1 +1,1 @@
-select sum(salary) from  employee
+select max(salary) from  employee
