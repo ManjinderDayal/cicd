@@ -1,1 +1,1 @@
-select * from  employee
+select count(*) from  employee
